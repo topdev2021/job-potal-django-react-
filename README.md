@@ -3,10 +3,10 @@
 This project is built with django and react
 
 ## Backend
-`pip install -r requirements.txt`
-`python mamange.py makemigrations`
-`python mamange.py migrate`
-`python mamange.py runserver`
++ `pip install -r requirements.txt`
++ `python mamange.py makemigrations`
++ `python mamange.py migrate`
++ `python mamange.py runserver`
 
 ## Frontend
 
