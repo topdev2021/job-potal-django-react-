@@ -1,0 +1,6 @@
+.user__detail a,
+.user__detail a:hover {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}

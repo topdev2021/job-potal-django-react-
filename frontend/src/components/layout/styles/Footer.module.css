@@ -1,0 +1,28 @@
+footer{
+    padding: 4% 0 3% 0;
+    background-color: #fafafa;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li a,
+ul li a:hover {
+    color: black;
+    text-decoration: none;
+    line-height: 2rem;
+    font-size: 14px;
+}
+
+.bottom{
+    border-top: 1px solid #f3f3f3;
+    padding-top: 4%;
+    margin-top: 2%;
+}
+
+.bottom p{
+    font-size: 14px;
+    margin-bottom: 0;
+}

@@ -1,0 +1,23 @@
+.jobs__card{
+    border: 1px solid rgba(0, 0, 0, .1);
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.jobs__card .card-title,
+.jobs__card h6,
+.jobs__card h5 {
+    font-weight: bold;
+    color: #353b48 !important;
+}
+
+.jobs__card a,
+.jobs__card a:hover {
+    color: #353b48 !important;
+    text-decoration: none;
+}
+
+.jobs__card b{
+    cursor: pointer;
+}
+

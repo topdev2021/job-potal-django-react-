@@ -1,0 +1,17 @@
+.header{
+    padding: 0.5%;
+    border-bottom: 1px solid #f3f3f3;
+}
+
+.header .bg-light{
+    background-color: white !important;
+}
+
+.header .navbar-light .navbar-brand {
+    font-weight: bold;
+}
+
+.header .navbar{
+    padding-left: 0px;
+    padding-right: 0px;
+}

@@ -1,0 +1,25 @@
+.single__answer__card{
+    cursor: pointer;
+}
+
+.single__answer__card:hover {
+    border: 1px solid green;
+}
+
+.single__answer{
+    align-items: center;
+}
+
+.single__answer .col-md-2 h2{
+    text-align: end;
+}
+
+h2{
+    font-weight: bold;
+}
+
+.answer__radio__btn {
+    background-color: white;
+    width: 100%;
+    color: black;
+}

@@ -1,0 +1,37 @@
+.auth__container{
+    min-height: 100vh;
+}
+
+.left{
+    background-color: #fafafa;
+    min-height: 100vh;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.left ul li{
+    display: inline;
+    margin-right: 15px;
+}
+
+.left ul li {
+    font-size: 22px;
+}
+
+.right {
+    min-height: 100vh;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+a.back{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
